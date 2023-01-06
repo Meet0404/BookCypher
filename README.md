@@ -1,3 +1,5 @@
 # BookCypher
-This project intakes a file named as Message.txt Message.txt word by word and creating a new "Encrypted.txt" file using ASCII standards. 
-Later "Encrypted.txt" file is used to recreate the original Message.txt file which is named as "Decrypted.txt".
+
+This program encrypts any text file into a file representing each letter with its random value and stores it into a list of list as “Encrypted.txt” and later use the encrypted version of file to decrypt the encrypted file to “Decrypted.txt”
+
+Data structures used :- Array, Linkedlists.
